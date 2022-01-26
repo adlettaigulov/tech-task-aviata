@@ -23,21 +23,14 @@ export default {
 
 <style lang="scss" scoped>
 .button {
+  background-color: #55bb06;
+  border-radius: 4px;
+  border: none;
   color: #fff;
   cursor: pointer;
-  background-color: #ff5627;
-  border: 1px solid #ff5627;
-  font-size: 16px;
-  text-decoration: none;
-  padding: 0 25px;
+  font-size: 18px;
+  font-weight: 700;
   height: 40px;
-  width: -webkit-max-content;
-  width: -moz-max-content;
-  width: max-content;
-  border-radius: 6px;
-  &:hover {
-    background: #fff;
-    color: #ff5627;
-  }
+  width: 200px;
 }
 </style>

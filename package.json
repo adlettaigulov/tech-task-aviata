@@ -1,5 +1,5 @@
 {
-  "name": "frozeneon-jsdelivr",
+  "name": "tech-task-aviata",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,12 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.25.0",
     "core-js": "^3.6.5",
-    "feather-icons": "^4.28.0",
-    "jw-vue-pagination": "^1.0.3",
+    "css-loader": "^6.5.1",
+    "svg-url-loader": "^7.1.1",
+    "url-loader": "^4.1.1",
     "vue": "^2.6.11",
-    "vue-axios": "^3.4.0",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
